@@ -1,5 +1,5 @@
 layout: page
 title: "newSite"
-permalink: /newSite
+permalink: /docs/newSite
 
 CONTENT
